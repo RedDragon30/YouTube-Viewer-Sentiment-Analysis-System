@@ -25,6 +25,7 @@ This project combines a Chrome Extension with a Flask-based ML API to provide re
 
 ### Streamlit App
 ![](https://github.com/RedDragon30/YouTube-Viewer-Sentiment-Analysis-System/blob/main/demo/vedio.mp4)
+<video src="demo/vedio.mp4" controls preload></video>
 
 ## ✨ Features
 
