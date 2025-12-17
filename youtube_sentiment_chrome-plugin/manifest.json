@@ -11,6 +11,7 @@
     "activeTab",
     "scripting",
     "http://localhost/*",
+    "https://*.pythonanywhere.com/*",
     "https://www.googleapis.com/*"
   ]
 }
