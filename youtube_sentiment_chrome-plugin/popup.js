@@ -2,8 +2,8 @@
 
 document.addEventListener("DOMContentLoaded", async () => {
   const outputDiv = document.getElementById("output");
-  const API_KEY = 'AIzaSyAHxO8ZCKPLODbhgSQcDV49Bv8cgkOA8Z4';  // Replace with your actual YouTube Data API key
-  const API_URL = 'http://localhost:8080/';
+  const API_KEY = '<API_KEY>';  // Replace with your actual YouTube Data API key
+  const API_URL = 'http://localhost:5000/';
 
   // Get the current tab's URL
   chrome.tabs.query({ active: true, currentWindow: true }, async (tabs) => {
@@ -112,7 +112,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     let comments = [];
     let pageToken = "";
     try {
-      while (comments.length < 1000) {
+      while (comments.length < 5000) {
         const response = await fetch(`https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=${videoId}&maxResults=100&pageToken=${pageToken}&key=${API_KEY}`);
         const data = await response.json();
         if (data.items) {
