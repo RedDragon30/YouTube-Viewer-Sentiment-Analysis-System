@@ -24,8 +24,7 @@ This project combines a Chrome Extension with a Flask-based ML API to provide re
 <img src="demo/youtube4.png" alt="workflow" width="80%">
 
 ### Streamlit App
-![](https://github.com/RedDragon30/YouTube-Viewer-Sentiment-Analysis-System/blob/main/demo/vedio.mp4)
-<video src="demo/vedio.mp4" controls preload></video>
+<a href="{[video-url](https://github.com/RedDragon30/YouTube-Viewer-Sentiment-Analysis-System/blob/main/demo/vedio.mp4)}" title="Link Title"><img src="{[image-url](https://github.com/RedDragon30/YouTube-Viewer-Sentiment-Analysis-System/blob/main/demo/vedio.mp4)}" alt="Alternate Text" /></a>
 
 ## ✨ Features
 
