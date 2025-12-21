@@ -53,6 +53,13 @@ This project combines a Chrome Extension with a Flask-based ML API and a streaml
 - **WordCloud** - Text visualization
 - **Pandas** - Data manipulation
 
+### Streamlit App
+
+- **YouTube Data API v3** - Comment fetching
+- **Matplotlib** - Chart generation
+- **WordCloud** - Text visualization
+- **Pandas** - Data manipulation
+
 ### Machine Learning
 
 - **LightGBM** - Gradient boosting classifier
