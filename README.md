@@ -147,7 +147,7 @@ The LightGBM model was trained on a combined dataset from Reddit, YouTube, and T
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/RedDragon30/YouTube-Viewer-Sentiment-Analysis-System.git
+git clone https://github.com/emranalbiek/YouTube-Viewer-Sentiment-Analysis-System.git
 cd YouTube-Viewer-Sentiment-Analysis-System
 ```
 
@@ -336,7 +336,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name** - [email](mailto:emranalbiek@gmail.com)
 
-Project Link: [github](https://github.com/RedDragon30/YouTube-Viewer-Sentiment-Analysis-System)
+Project Link: [github](https://github.com/emranalbiek/YouTube-Viewer-Sentiment-Analysis-System)
 
 ---
 
